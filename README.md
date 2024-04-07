@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Anton Kazachenko</h1>
 <h3 align="center">I'm a CS student developer interested in Web Development and Data Science</h3>
 
-- 🔭 I’m currently working on [Web Messenger](https://github.com/creamlaflare/middle.messenger.praktikum.yandex)
+- 🔭 Currently focusing on [Web Messenger](https://github.com/creamlaflare/middle.messenger.praktikum.yandex) project.
 
-- 🌱 I’m currently learning **Angular and Go**
+- 🌱 I’m currently learning **Angular and Go**.
 
-- 📫 How to reach me **kazachenkowork@gmail.com**
+- 🏢 I'm doing a CO-OP at [Copperleaf](https://github.com/copperleaftech)
+  
+- 📫 How to reach me: **kazachenkowork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
