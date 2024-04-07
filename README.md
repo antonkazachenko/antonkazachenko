@@ -1,4 +1,4 @@
-![Masterhead](imgur.com/a/4Bca2nq)
+![Masterhead](/n8agw6z2smyb1.gif)
 <h1 align="center">Hi 👋, I'm Anton Kazachenko</h1>
 <h3 align="center">I'm a CS student developer interested in Web Development and Data Science</h3>
 
