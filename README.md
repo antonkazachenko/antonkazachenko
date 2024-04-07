@@ -1,4 +1,4 @@
-![Masterhead](/ezgif-7-2db8c10a08.gif)
+![Masterhead](/ezgif-7-af3f324ab5.gif)
 <h1 align="center">Hi 👋, I'm Anton Kazachenko</h1>
 <h3 align="center">I'm a CS student developer interested in Web Development and Data Science</h3>
 
