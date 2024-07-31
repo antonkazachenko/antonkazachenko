@@ -1,7 +1,7 @@
-👋 Hi, I'm Anton Kazachenko! I’m the Software Developer Intern at **[Copperleaf Technologies](https://www.copperleaf.com/)** and a CS student focused on web developement and data science.
+👋 Hi, I'm Anton Kazachenko! I’m the Software Developer Intern at **[Copperleaf Technologies](https://www.copperleaf.com/)** and a CS student focused on web development and data science located in Vancouver, BC, Canada.
 
 ## About Me
-With a strong foundation in computer science and a passion for technology, I bring a unique combination of analytical thinking, creativity, and technical expertise to the programming world. My passion lies in developing innovative software solutions that not only solve complex problems but also create new opportunities for growth and learning.
+With a strong foundation in computer science and a passion for technology, I bring a unique combination of analytical thinking, creativity, and technical expertise to the programming world. My passion lies in developing innovative software solutions that solve complex problems and create new opportunities for growth and learning.
 
 ## Technical Skills 🛠️
 - **Languages:** TypeScript, JavaScript, Go, Python, C++, C, Haskell
@@ -10,7 +10,7 @@ With a strong foundation in computer science and a passion for technology, I bri
 - **Data Science & AI:** TensorFlow, OpenCV, SKLearn, Pandas, NumPy
 
 ## Key Projects 📚
-- **[React Burger](https://github.com/antonkazachenko/react-burger):** A burger restaurant website with authorization and drag 'n' drop functionality in React & Redux & TypeScript .
+- **[React Burger](https://github.com/antonkazachenko/react-burger):** A burger restaurant website with authorization and drag 'n' drop functionality in React & Redux & TypeScript.
 - **[Middle Messenger](https://github.com/antonkazachenko/middle.messenger.praktikum.yandex):** A web messenger with authorization.
 - **[Cardano Go](https://github.com/antonkazachenko/cardano-go):** Go module for the Cardano Blockchain.
 - **[Encoding Go](https://github.com/antonkazachenko/encoding-go):** JSON ↔ YAML Conversion Tool written in Go.
