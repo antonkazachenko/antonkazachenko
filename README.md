@@ -5,7 +5,7 @@ With a strong foundation in computer science and a passion for technology, I bri
 
 ## Technical Skills 🛠️
 - **Languages:** TypeScript, JavaScript, Go, Python, C++, C, Haskell
-- **Frameworks & Libraries:** React, Angular, Sass, Mocha, Express, Webpack, TensorFlow
+- **Frameworks & Libraries:** React, Angular, Handlebars, Sass, Mocha, Express, Webpack, TensorFlow
 - **Tools & Platforms:** Docker, AWS, Babel, Figma, Git, Kubernetes, MySQL, PostgreSQL, Selenium, Nginx, Jest, Webpack
 - **Data Science & AI:** TensorFlow, OpenCV, SKLearn, Pandas, NumPy
 
