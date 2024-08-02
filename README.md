@@ -13,7 +13,7 @@ With a strong foundation in computer science and a passion for technology, I bri
 - **[React Burger](https://github.com/antonkazachenko/react-burger):** A burger restaurant website with authorization and drag 'n' drop functionality in React & Redux & TypeScript.
 - **[Middle Messenger](https://github.com/antonkazachenko/middle.messenger.praktikum.yandex):** A web messenger with authorization.
 - **[Cardano Go](https://github.com/antonkazachenko/cardano-go):** Go module for the Cardano Blockchain.
-- **[Encoding Go](https://github.com/antonkazachenko/encoding-go):** JSON ↔ YAML Conversion Tool written in Go.
+- **[Go Todo List](https://github.com/antonkazachenko/go-todo-list-api):** A RESTful API for managing TODO lists built with Go.
 
 ## Leadership & Advocacy 🌟
 - **Microsoft TEALS Teaching Assistant:** Led interactive Python programming sessions for 9th-grade students, encouraging enthusiasm for coding and problem-solving.
