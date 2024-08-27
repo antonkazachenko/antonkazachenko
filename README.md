@@ -14,7 +14,8 @@ With a strong foundation in computer science and a passion for technology, I bri
 - **[Web Messenger](https://github.com/antonkazachenko/middle.messenger.praktikum.yandex):** A web messenger with authorization built using a custom framework that utilizes various design patterns.
 - **[Cardano Go](https://github.com/antonkazachenko/cardano-go):** Go module for the Cardano Blockchain.
 - **[Go Todo List](https://github.com/antonkazachenko/go-todo-list-api):** A RESTful API for managing TODO lists built with Go.
-
+- **[Data Science Projects](https://github.com/antonkazachenko/ds_projects):** A comprehensive repository showcasing my work across various Data Science projects.
+ 
 ## Leadership & Advocacy 🌟
 - **Microsoft TEALS Teaching Assistant:** Led interactive Python programming sessions for 9th-grade students, encouraging enthusiasm for coding and problem-solving.
 - **Community Advisor at University:** Cultivated a positive, educational community experience for residents, ensuring safety and well-being through inclusive and engaging activities.
