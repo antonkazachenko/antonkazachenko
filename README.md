@@ -12,6 +12,7 @@ With a strong foundation in computer science and a passion for technology, I bri
 ## Key Projects 📚
 - **[React Burger](https://github.com/antonkazachenko/react-burger):** A burger restaurant website with authorization and drag 'n' drop functionality in React & Redux & TypeScript.
 - **[Go Todo List](https://github.com/antonkazachenko/go-todo-list-api):** A RESTful API for managing TODO lists built with Go.
+- **[Java Task Manager](https://github.com/antonkazachenko/taskmanagment):** A Task Management API written in Java & Spring Boot
 - **[Web Messenger](https://github.com/antonkazachenko/middle.messenger.praktikum.yandex):** A web messenger with authorization built using a custom framework that utilizes various design patterns.
 - **[Cardano Go](https://github.com/antonkazachenko/cardano-go):** Go module for the Cardano Blockchain.
 - **[Data Science Projects](https://github.com/antonkazachenko/ds_projects):** A comprehensive repository showcasing my work across various Data Science projects.
