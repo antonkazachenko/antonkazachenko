@@ -1,4 +1,4 @@
-👋 Hi, I'm Anton Kazachenko! I’m the Software Developer Intern at **[Copperleaf Technologies](https://www.copperleaf.com/)** and a CS student focused on web development and data science located in Vancouver, BC, Canada.
+👋 Hi, I'm Anton Kazachenko! I’m a CS student at Simon Fraser University focused on web development and data science located in Vancouver, BC, Canada. Prev @ at **[Copperleaf Technologies](https://www.copperleaf.com/)**
 
 ## About Me
 With a strong foundation in computer science and a passion for technology, I bring a unique combination of analytical thinking, creativity, and technical expertise to the programming world. My passion lies in developing innovative software solutions that solve complex problems and create new opportunities for growth and learning.
